@@ -41,7 +41,7 @@
 /* Definitions of environment analog values */
   /* Value of analog reference voltage (Vref+), connected to analog voltage   */
   /* supply Vdda (unit: mV).                                                  */
-  #define VDDA_APPLI                       ((uint32_t)3300)
+  #define VDDA_APPLI                       ((uint32_t)3220)
 
 /* Definitions of data related to this example */
   /* ADC unitary conversion timeout */
